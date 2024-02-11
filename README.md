@@ -41,7 +41,7 @@ The Server-1 component of the Honors Enrolment Pre-assessment System (HEPaS) is 
 
 ### Setup Instructions:
 
-[Include instructions for setting up and running the server-1 component, including any dependencies, configuration steps, and environment setup.]
+
 
 ### Contributions:
 
