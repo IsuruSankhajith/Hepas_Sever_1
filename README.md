@@ -1,4 +1,4 @@
-
+ 
 ## Server-1 (Honors Evaluation Server)
 
 The Server-1 component of the Honors Enrolment Pre-assessment System (HEPaS) is responsible for handling client requests, processing data, and evaluating the eligibility of users for Honors studies. It is a crucial part of the three-tier distributed system, facilitating communication between the client application and the database server (server-2).
